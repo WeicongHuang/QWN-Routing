@@ -24,7 +24,8 @@ package topoQCPS
 
 - `topo/link.java` Define quantum links in a quantum network
 - `topo/node.java` Define quantum nodes in a quantum network
-1. Q-CFPSR-Q-CFPSR-WR.zip
+- 
+2. Q-CFPSR-Q-CFPSR-WR.zip
 `src` source code root. Under this directory:
 
 package algorithm
