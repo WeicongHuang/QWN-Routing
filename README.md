@@ -24,7 +24,7 @@ package topoQCPS
 
 - `topo/link.java` Define quantum links in a quantum network
 - `topo/node.java` Define quantum nodes in a quantum network
-- 
+
 2. Q-CFPSR-Q-CFPSR-WR.zip
 `src` source code root. Under this directory:
 
@@ -63,13 +63,13 @@ git clone [https://github.com/WeicongHuang/QWN-Routing.git](https://github.com/W
 ### 3. Run simulations
 
 1. Unzip QCPS.zip
-- run `runQCPS/Thoughout.java`
-- run `runQCPS/Correct.java`
-1. Unzip Q-CFPSR-Q-CFPSR-WR.zip
-- run `run/Thoughout.java`
-- run `run/Correct.java`
+  - run `runQCPS/Thoughout.java`
+  - run `runQCPS/Correct.java`
+  
+2. Unzip Q-CFPSR-Q-CFPSR-WR.zip
+  - run `run/Thoughout.java`
+  - run `run/Correct.java`
 
 ### 4. plot figures in our paper
-
 Draw histograms of throughput according to `examples\\throughput.xls` in  Q-CFPSR-Q-CFPSR-WR and QCPS.
 Draw histograms of success rate according to `examples\\correctrate.xls` in  Q-CFPSR-Q-CFPSR-WR and QCPS.
