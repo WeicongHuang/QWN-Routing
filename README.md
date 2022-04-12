@@ -25,6 +25,7 @@ d). package *topoQCPS*
 - `topo/node.java` Define quantum nodes in a quantum network
 
 **2. Q-CFPSR**
+
 `src` source code root. Under this directory:
 
 a). package *algorithm*
@@ -48,6 +49,7 @@ d). package *topo*
 - `topo/node.java` Define quantum nodes in a quantum network
 
 **3. Q-CFPSR-WR**
+
 `src` source code root. Under this directory:
 
 a). package *algorithm*
