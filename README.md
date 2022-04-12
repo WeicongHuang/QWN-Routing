@@ -72,13 +72,13 @@ d). package *topo*
 
 # Run demo
 ### 1. Build the environment
-Install Java(jdk vesion is 15) and eclipse (version is 2021-03 (4.19.0)) for simulation
+Install Java(jdk vesion is 15) and eclipse (version is 2021-03 (4.19.0)) for simulation.
 
 ### 2. Download source codes
-git clone [https://github.com/WeicongHuang/QWN-Routing.git](https://github.com/WeicongHuang/QWN-Routing.git)
+git clone [https://github.com/WeicongHuang/QWN-Routing.git](https://github.com/WeicongHuang/QWN-Routing.git).
 
 ### 3. Run simulations
-Unzip Simulations.zip
+Unzip Simulations.zip.
 
 1). run `QCPS\src\Simulations.java`
 
