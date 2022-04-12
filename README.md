@@ -82,5 +82,7 @@ Unzip Simulations.zip
   
 ### 4. plot figures in our paper
 a). Draw histograms of average residual energy, the number of node, throughput and correct rate according to `Q-CFPSR/examples/CFPSR__Performance.xls` in  Q-CFPSR.
+
 b). Draw histograms of average residual energy, the number of node, throughput and correct rate according to `Q-CFPSR-WR/examples/CFPSR-WR-Performance.xls` in  Q-CFPSR-WR.
+
 c). Draw histograms of average residual energy, the number of node, throughput and correct rate according to `QCPS/examples/QCPS__Performance.xls` in  QCPS.
