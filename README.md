@@ -17,7 +17,7 @@ a). package *algorithmQCPS*
 b). package *runQCPS*
 - `runQCPS/Simulations.java` The simulation experiment calculates average residual energy, the number of node, throughput and correct rate in the Q-CPS protocol
 
-c). package RWfileQCPS
+c). package *RWfileQCPS*
 - `RWfile/GenerateNetworkNode.java` Generate a random network
 
 d). package *topoQCPS*
@@ -77,8 +77,11 @@ git clone [https://github.com/WeicongHuang/QWN-Routing.git](https://github.com/W
 
 ### 3. Run simulations
 Unzip Simulations.zip
+
 1). run `QCPS\src\Simulations.java`
+
 2). run `Q-CFPSR\src\Simulations.java`
+
 3). run `Q-CFPSR-WR\src\Simulations.java`
   
 ### 4. plot figures in our paper
